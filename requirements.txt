@@ -1,3 +1,4 @@
+aiohttp
 numpy
 python_dateutil
 pytz
